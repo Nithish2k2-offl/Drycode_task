@@ -7,6 +7,7 @@ public class App {
         Scanner s = new Scanner(System.in);
         int name = s.nextInt();
         System.out.println(name);
+        System.out.println(name);
         s.close();
     }
 }
